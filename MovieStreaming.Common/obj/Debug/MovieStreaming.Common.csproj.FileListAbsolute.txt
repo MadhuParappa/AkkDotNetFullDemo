@@ -1,0 +1,13 @@
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\bin\Debug\MovieStreaming.Common.dll
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\bin\Debug\MovieStreaming.Common.pdb
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\bin\Debug\Akka.dll
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\bin\Debug\System.Collections.Immutable.dll
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\bin\Debug\Akka.xml
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\bin\Debug\System.Collections.Immutable.xml
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\obj\Debug\MovieStreaming.Common.csprojAssemblyReference.cache
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\obj\Debug\MovieStreaming.Common.csproj.CoreCompileInputs.cache
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\obj\Debug\MovieStreaming.Common.csproj.CopyComplete
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\obj\Debug\MovieStreaming.Common.dll
+C:\Akk.NetDemo\MovieStreaming\MovieStreaming.Common\obj\Debug\MovieStreaming.Common.pdb
